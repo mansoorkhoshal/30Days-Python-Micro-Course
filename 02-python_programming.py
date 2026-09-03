@@ -21,3 +21,13 @@ myfunc()
 
 """
 
+x = 4
+
+print(complex(x))
+
+x = 4 
+
+a = float(x)
+b = complex(x)
+
+print(a,b)
